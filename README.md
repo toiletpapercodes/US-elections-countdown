@@ -1,2 +1,1 @@
-# US-elections-countdown
-US elections countdown 
+Countdown to US elections 2024 
